@@ -61,7 +61,7 @@ const todoList = () => {
 
   return (
     <div className='bg-slate-900 h-screen flex justify-center items-center'>
-      <div className='border bg-white lg:w-4/12 w-8/12 px-6 py-4'>
+      <div className='border bg-white lg:w-4/12 w-8/12 px-6 lg:py-4'>
         <h1 className='text-5xl text-center'>Todo List</h1>
         <h4 className='text-xl mt-10 text-slate-900/90'>Add Items</h4>
         <hr className='w-full bg-black h-1' />
